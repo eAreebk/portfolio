@@ -1,0 +1,533 @@
+#home{
+    width: 100%;
+    height: 800px;
+    /* border: solid orange; */
+    background-color: black;
+
+    position: relative;
+
+}
+
+.me{
+    width: 300px;
+    width: 400px;
+    border-radius: 40px;
+
+    position: absolute;
+    right: 15%;
+    top: 18%;
+}
+
+.intro{
+    color: white;
+    font-weight: 800;
+
+    position: absolute;
+    left: 15%;
+    top: 38%;
+    
+}
+
+.name{
+    color: gold;
+    font-weight: 800;
+    font-size: 50px;
+
+    position: absolute;
+    left: 12%;
+    top: 45%;
+    
+}
+
+.who{
+    color: white;
+    /* font-weight: 800; */
+    /* font-size: 50px; */
+
+    position: absolute;
+    left: 29%;
+    top: 53%;
+}
+
+#about{
+    width: 100%;
+    height: 800px;
+    /* border: solid orange; */
+    background-color: black;
+
+    position: relative;
+
+}
+
+.me1{
+    height: 300px;
+  width: 300px;
+  border:  dotted;
+  border-radius: 50%;
+  /* display: inline-block; */
+
+    position: absolute;
+    left: 42%;
+    top: 15%;
+}
+
+.myself{
+    color: burlywood;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-size: larger; */
+
+    position: absolute;
+    left: 41.5%;
+    top: 55%;
+}
+
+.im{
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+
+    position: absolute;
+    left: 30%;
+    top: 63% ;
+}
+
+#edu{
+    width: 100%;
+    height: 800px;
+    /* border: solid orange; */
+    background-color: black;
+
+    position: relative;
+}
+
+.acd{
+    color: burlywood;
+    font-weight: 600;
+    font-size:55px;
+    border: dotted white;
+    font-family: Arial, Helvetica, sans-serif;
+   
+
+
+    position: absolute;
+    left: 35%;
+    top: 46%;
+}
+
+/* .note{
+    width: 500px;
+    width: 600px;
+
+    position: absolute;
+    left: 35%;
+    top: 35%;
+} */
+
+.scl{
+    width: 25%;
+    height: 35%;
+    
+    border: solid white;
+    
+    position: absolute;
+    left: 1%;
+    top: 1%;
+}
+
+.mat{
+    color: white;
+    font-weight: bolder;
+
+    position: absolute;
+    left:26%;
+    top: 4%;
+}
+
+.becon{
+    width: 250px;
+    height: 200px ;
+
+    position: absolute;
+    left: 18%;
+    top: 22%;
+}
+
+.clg{
+    width: 25%;
+    height: 35%;
+    
+    border: solid white;
+    
+    position: absolute;
+    right: 1%;
+    top: 1%;
+}
+
+.intr{
+    color: white;
+    font-weight: bolder;
+
+    position: absolute;
+    right:28%;
+    top: 4%;
+}
+
+.sm{
+    width: 250px;
+    height: 200px ;
+
+    position: absolute;
+    right: 18%;
+    top: 22%;
+}
+
+.uni{
+    width: 25%;
+    height: 35%;
+    
+    border: solid white;
+    
+    position: absolute;
+    left: 1%;
+    bottom: 1%;
+}
+
+.grad{
+    color: white;
+    font-weight: bolder;
+
+    position: absolute;
+    left:32%;
+    bottom: 70%;
+    z-index: 4;
+}
+
+.bu{
+    width: 300px;
+    height: 150px ;
+
+    position: absolute;
+    left: 12%;
+    bottom: 8%;
+}
+
+
+.bq{
+    width: 25%;
+    height: 35%;
+    
+    border: solid white;
+    
+    position: absolute;
+    right: 1%;
+    bottom: 1%;
+}
+
+.wd{
+    color: white;
+    font-weight: bolder;
+
+    position: absolute;
+    right:20%;
+    bottom: 70%;
+    z-index: 4;
+}
+
+.idara{
+    width: 300px;
+    height: 150px ;
+
+    position: absolute;
+    right: 12%;
+    bottom: 8%;
+}
+
+#skil{
+    width: 100%;
+    height: 800px;
+    /* border: solid orange; */
+    background-color: black;
+
+    position: relative;
+}
+
+.xp{
+    color: white;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+
+    position: absolute;
+    top: 5%;
+    left: 35%;
+}
+
+.elec{
+    width: 400px;
+    height: 600px;
+    border: solid white;
+    background-color: lightcoral;
+
+    position: absolute;
+    left: 7%;
+    bottom: 5%;
+    
+}
+
+.elc{
+    color: black;
+    font-weight: 900px;
+
+    position: absolute;
+    left: 23%;
+    top: 2%;
+}
+
+.l1{
+    color: black;
+    font-size: larger;
+    font-weight: 700px;
+
+    position: absolute;
+    top: 20%;
+}
+
+.soft{
+    width: 400px;
+    height: 600px;
+    border: solid white;
+    background-color: olivedrab;
+
+    position: absolute;
+    right: 36.5%;
+    bottom: 5%;
+    z-index: 9;
+}
+
+.sof{
+    color: black;
+    font-weight: 900px;
+
+    position: absolute;
+    right: 30%;
+    top: 2%;
+}
+
+.l2{
+    color: black;
+    font-size: larger;
+    font-weight: 700px;
+
+    position: absolute;
+    top: 20%;
+}
+
+.sk{
+    width: 400px;
+    height: 600px;
+    border: solid white;
+    background-color:lightgreen;
+
+    position: absolute;
+    right: 7%;
+    bottom: 5%;
+    
+}
+
+.s{
+    color: black;
+    font-weight: 900px;
+
+    position: absolute;
+    left: 23%;
+    top: 2%;
+}
+
+.l3{
+    color: black;
+    font-size: larger;
+    font-weight: 700px;
+
+    position: absolute;
+    top: 20%;
+}
+
+#prj{
+    width: 100%;
+    height: 800px;
+    /* border: solid orange; */
+    background-color: black;
+
+    position: relative;
+}
+
+.proj{
+    color: white;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+
+    position: absolute;
+    top: 5%;
+    left: 35%;
+}
+
+.ep{
+    width: 30%;
+    height: 70%;
+    border: solid white;
+    /* background-color: antiquewhite; */
+
+    position: absolute;
+    left: 10%;
+    bottom: 10%;
+}
+
+.e{
+    color: burlywood;
+    /* font-size: 60px; */
+    /* font-weight: 900px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    position: absolute;
+    left: 28%;
+    top: 5%;
+}
+
+.ul1{
+    color: white;
+
+    position: absolute;
+    top: 20%;
+}
+
+.it{
+    width: 30%;
+    height: 70%;
+    border: solid white;
+    /* background-color: antiquewhite; */
+
+    position: absolute;
+    right: 10%;
+    bottom: 10%;
+}
+
+.i{
+    color: burlywood;
+    /* font-size: 60px; */
+    /* font-weight: 900px; */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    position: absolute;
+    left: 32%;
+    top: 5%;
+}
+
+.ul2{
+    color: white;
+
+    position: absolute;
+    top: 20%;
+}
+
+#cont{
+    width: 100%;
+    height: 800px;
+    /* border: solid orange; */
+    background-color: black;
+
+    position: relative;
+}
+
+.cal{
+    color: white;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+
+    position: absolute;
+    top: 5%;
+    left: 31%;
+}
+
+.gm{
+    width: 50px;
+    height: 50px;
+
+    position: absolute;
+    left: 5%;
+    top: 25% ;
+}
+
+.a1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    
+
+
+    position: absolute;
+    left: 10%;
+    top: 25% ;
+}
+
+.fb{
+    width: 50px;
+    height: 50px;
+
+    position: absolute;
+    left: 5%;
+    top: 40% ;
+}
+
+.a2{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    
+
+
+    position: absolute;
+    left: 10%;
+    top: 40% ;
+}
+
+.in{
+    width: 50px;
+    height: 50px;
+
+    position: absolute;
+    left: 5%;
+    top: 55% ;
+}
+
+.a3{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    
+
+
+    position: absolute;
+    left: 10%;
+    top: 55% ;
+}
+
+.wp{
+    width: 50px;
+    height: 50px;
+
+    position: absolute;
+    left: 5%;
+    top: 70% ;
+}
+
+.a4{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    
+
+
+    position: absolute;
+    left: 10%;
+    top: 70% ;
+}
+
