@@ -14,7 +14,7 @@
     border-radius: 40px;
 
     position: absolute;
-    right: 15%;
+    right: 10%;
     top: 18%;
 }
 
@@ -23,7 +23,7 @@
     font-weight: 800;
 
     position: absolute;
-    left: 15%;
+    left: 10%;
     top: 38%;
     
 }
@@ -34,7 +34,7 @@
     font-size: 50px;
 
     position: absolute;
-    left: 12%;
+    left: 8%;
     top: 45%;
     
 }
@@ -45,7 +45,7 @@
     /* font-size: 50px; */
 
     position: absolute;
-    left: 29%;
+    left: 22%;
     top: 53%;
 }
 
@@ -268,7 +268,7 @@
     background-color: lightcoral;
 
     position: absolute;
-    left: 7%;
+    left: 4%;
     bottom: 5%;
     
 }
@@ -295,7 +295,7 @@
     width: 400px;
     height: 600px;
     /* border: solid white; */
-    background-color: olivedrab;
+    background-color: LightGray;
 
     position: absolute;
     right: 36.5%;
@@ -328,7 +328,7 @@
     background-color:lightgreen;
 
     position: absolute;
-    right: 7%;
+    right: 5%;
     bottom: 5%;
     
 }
