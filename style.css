@@ -262,7 +262,7 @@
 }
 
 .elec{
-    width: 400px;
+    width: 380px;
     height: 600px;
     /* border: solid white; */
     background-color: lightcoral;
@@ -292,13 +292,13 @@
 }
 
 .soft{
-    width: 400px;
+    width: 380px;
     height: 600px;
     /* border: solid white; */
     background-color: LightGray;
 
     position: absolute;
-    right: 30%;
+    right: 29%;
     bottom: 5%;
     z-index: 9;
 }
@@ -322,7 +322,7 @@
 }
 
 .sk{
-    width: 400px;
+    width: 380px;
     height: 600px;
     /* border: solid white; */
     background-color:lightgreen;
